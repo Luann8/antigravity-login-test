@@ -1,9 +1,10 @@
-  <div>
-      <span class="badge">Next.js</span>
-      <span class="badge">Node.js</span>
-      <span class="badge">AI Generated</span>
-      <span class="badge">QA Focus</span>
-    </div>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge">
+</p>
 
   <h2>📌 Sobre o projeto</h2>
     <p>
