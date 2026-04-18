@@ -5,7 +5,7 @@
 
   <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
   
-<img src="https://img.shields.io/badge/Antigravity-0F0F1A?style=for-the-badge&logo=expo&logoColor=7C3AED">
+<img src="https://img.shields.io/badge/Antigravity-2563EB?style=for-the-badge&logo=expo&logoColor=white">
 </p>
 
   <h2>📌 Sobre o projeto</h2>
