@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge">
+  
+  <!-- Antigravity usando visual da Expo -->
+  <img src="https://img.shields.io/badge/Antigravity-000020?style=for-the-badge&logo=expo&logoColor=white">
 </p>
 
   <h2>📌 Sobre o projeto</h2>
