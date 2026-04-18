@@ -84,3 +84,6 @@
       A IA acelera o desenvolvimento, mas ainda depende de conhecimento técnico
       para garantir qualidade e boas práticas.
     </p>
+
+  <img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/4484bf76-7ecf-4f1a-8944-ad4242f63d73" />
+
