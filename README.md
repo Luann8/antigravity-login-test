@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge&logo=antigravity">
 </p>
 
   <h2>📌 Sobre o projeto</h2>
