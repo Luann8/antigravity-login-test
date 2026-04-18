@@ -32,6 +32,8 @@
   <h2>▶️ Como rodar</h2>
 
    <pre><code>npm install</code></pre>
+  
+   <pre><code>npm run build</code></pre>
 
    <pre><code>npm run dev</code></pre>
 
