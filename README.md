@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge&logo=antigravity&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity-9333EA?style=for-the-badge">
 </p>
 
   <h2>📌 Sobre o projeto</h2>
